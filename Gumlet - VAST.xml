@@ -6,10 +6,12 @@
             <Creatives>
                 <Creative>
                     <Linear>
+                        <!-- Indiquez la durée exacte de votre vidéo au format HH:MM:SS -->
                         <Duration>00:00:08</Duration>
                         <MediaFiles>
-                            <MediaFile delivery="streaming" type="application/x-mpegURL" width="1920" height="1080">
-                                https://video.gumlet.io/6a2ed95e93651fdca957771b/6b000ed3c5e083fdb9b0144a/main.m3u8
+                            <!-- Remplacez l'URL ci-dessous par votre vrai lien direct .mp4 -->
+                            <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
+                                https://video.gumlet.io/6a46204c18d11bffd50f7c0b/6b001466ffd058030e1918f2/download.mp4
                             </MediaFile>
                         </MediaFiles>
                     </Linear>

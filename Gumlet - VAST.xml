@@ -11,7 +11,7 @@
                         <MediaFiles>
                             <!-- Remplacez l'URL ci-dessous par votre vrai lien direct .mp4 -->
                             <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
-                                https://video.gumlet.io/6a46204c18d11bffd50f7c0b/6ace3b01c2006a01b077b1a6/download.mp4
+                                https://gumlet.tv/watch/6b000ed3c5e083fdb9b0144a
                             </MediaFile>
                         </MediaFiles>
                     </Linear>
